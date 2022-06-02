@@ -16,6 +16,8 @@ I am a web Developer with a previous career in Graphic Design. With skills in Fr
 
 ## My Projects
 
+## My Projects
+
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/portfolio%20gif.gif" alt="Portfolio" />
 
 ## Links
