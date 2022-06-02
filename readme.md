@@ -1,5 +1,7 @@
 ![](https://i.ibb.co/JK0YWZ5/githubanner-copy.jpg)
 
+## About me
+
 ### Hi there 👋, My Name is Julio Salas
 
 I am a web Developer with a previous career in Graphic Design. With skills in Frontend Development, my work experience comes from helping small business have an online presence. And I am currently in the look for opportunities that will let me take on bigger challenges.
