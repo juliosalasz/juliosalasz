@@ -20,4 +20,7 @@ I am a web Developer with a previous career in Graphic Design. With skills in Fr
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/portfolio%20gif.gif" alt="Portfolio" />
 
 
+## Links
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/juliosalasz) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juliosalasz//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/JulioSalasZ) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jsz-portfolio.netlify.app/)
