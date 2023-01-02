@@ -21,12 +21,18 @@ I am a web Developer with a previous career in Graphic Design. With skills in Fr
 <a href="https://delightful-twilight-2441a4.netlify.app/">
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/justDoIt.gif" alt="Just Do it" /></a>
 
-<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/clips.jpg" alt="CLIPZ" />
-<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/greenCoffee.gif" alt="Green Gold Cofee" />
-<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/techitout.jpg" alt="Tech it out" />
-<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/gorillaCoffee.gif" alt="Gorilla Coffee" />
-<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/portfolio%20gif.gif" alt="Portfolio" />
-<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/ecomerce.gif" alt="Portfolio" />
+<a href="https://clips-site-angular.vercel.app/"><img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/clips.jpg" alt="CLIPZ" /></a>
+
+<a href="https://animated-lamington-52d0d2.netlify.app/en/index.html"><img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/greenCoffee.gif" alt="Green Gold Cofee" /></a>
+
+<a href=""><img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/techitout.jpg" alt="Tech it out" /></a>
+
+<a href="https://techitout-v3.netlify.app/"><img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/gorillaCoffee.gif" alt="Gorilla Coffee" /></a>
+
+<a href="https://jsz-portfolio.netlify.app/"><img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/portfolio%20gif.gif" alt="Portfolio" /></a>
+
+<a href="https://dulcet-pony-796509.netlify.app/"><img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/ecomerce.gif" alt="Portfolio" /></a>
+
 
 ## Links
 
