@@ -20,7 +20,8 @@ I am a web Developer with a previous career in Graphic Design. With skills in Fr
 
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/justDoIt.gif" alt="Just Do it" />
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/clips.jpg" alt="CLIPZ" />
-<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/greenCoffee.gif" alt="Just Do it" />
+<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/greenCoffee.gif" alt="Green Gold Cofee" />
+<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/techitout.jpg" alt="Tech it out" />
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/gorillaCoffee.gif" alt="Gorilla Coffee" />
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/portfolio%20gif.gif" alt="Portfolio" />
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/ecomerce.gif" alt="Portfolio" />
