@@ -18,7 +18,9 @@ I am a web Developer with a previous career in Graphic Design. With skills in Fr
 
 ## My Projects
 
-<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/justDoIt.gif" alt="Just Do it" />
+<a href="https://delightful-twilight-2441a4.netlify.app/">
+<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/justDoIt.gif" alt="Just Do it" /></a>
+
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/clips.jpg" alt="CLIPZ" />
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/greenCoffee.gif" alt="Green Gold Cofee" />
 <img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/techitout.jpg" alt="Tech it out" />
