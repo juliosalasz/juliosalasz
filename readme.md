@@ -4,12 +4,12 @@
 
 ### Hi there 👋, My Name is Julio Salas
 
-I am a web Developer with a previous career in Graphic Design. With skills in Frontend Development, my work experience comes from helping small business have an online presence. And I am currently in the look for opportunities that will let me take on bigger challenges.
+Full stack developer with a previous career and education in Graphic Design. Years of experience in the entertainment and gaming business. Creative, self-direct, out of the box thinker, flexible engineer with a deep interest in VR. 
 
 ## My Skills
 
-💻 HTML | CSS | JAVASCRIPT | JQUERY | TAILWIND | REACT
-📱 NODEJS | TYPESCRIPT | NEXTJS
+💻 HTML | CSS | JAVASCRIPT | JQUERY | TAILWIND |  BOOTSTRAP  | REACT |  ANGULAR  | PHP
+📱 NODEJS | TYPESCRIPT | SQL | AWS 
 
 🌐Bilingual: English and Spanish
 🗽Allowed to work in the US
@@ -24,6 +24,8 @@ I am a web Developer with a previous career in Graphic Design. With skills in Fr
 <a href="https://clips-site-angular.vercel.app/"><img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/clips.jpg" alt="CLIPZ" /></a>
 
 <a href="https://animated-lamington-52d0d2.netlify.app/en/index.html"><img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/greenCoffee.gif" alt="Green Gold Cofee" /></a>
+
+<a href="https://cheery-eclair-586c16.netlify.app/"><img src="https://i.ibb.co/8dfb6hT/Imageeffects.gif" alt="greyscale" /></a>
 
 <a href=""><img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/techitout.jpg" alt="Tech it out" /></a>
 
